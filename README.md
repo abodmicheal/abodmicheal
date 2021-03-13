@@ -1,7 +1,7 @@
 ### Hi there I'm abod👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/Abodmicheal?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fabod_media&screen_name=abod_media)
 
-### I'm a frontend developer/React Dev , computer science student and basically a Tutor
+### I'm a Front end dev, computer science student and a Tutor
 
 - 🔭 I’m currently working on React and Redux projects
 - 🌱 I’m currently learning greensock animations and Nextjs
