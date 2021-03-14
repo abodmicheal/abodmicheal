@@ -9,7 +9,7 @@
 - 🤔 I’m looking for help with my VPN project using react Native and bridge 
 - 💬 Ask me about how to solve any Front End issues 
 - 😄 Pronouns: Abod 
-- ⚡ Fun fact: I love designs and also have crazy ideas about designs 
+- ⚡ Fun fact: I watch animes alot like a whole lot 🚶‍♂️🚶‍♂️
 - 📫 How to reach me:
 
 
