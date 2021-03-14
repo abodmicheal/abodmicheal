@@ -41,11 +41,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter group for developers to help gain likes and retweets](https://dev.to/abodmicheal/twitter-group-for-developers-to-help-gain-likes-and-retweets-17b6)
 - [Truncate Text In React.js and JS](https://dev.to/abodmicheal/truncate-text-in-react-js-and-js-22k2)
 - [sticky navbar on scroll reactJS](https://dev.to/abodmicheal/sticky-navbar-on-scroll-reactjs-1p4d)
 - [How to deploy/Host React project on firebase](https://dev.to/abodmicheal/how-to-deploy-host-react-project-on-firebase-76i)
 - [3 Methods of binding in react](https://dev.to/abodmicheal/3-methods-of-binding-in-react-2fid)
-- [Getting started with JavaScript - Atom autocomplete using ternjs](https://dev.to/abodmicheal/getting-started-with-javascript-atom-autocomplete-using-ternjs-13ek)
 <!-- BLOG-POST-LIST:END -->
 
 <i>NOTE: This is basically all about me but I'm always learning and would never stop learning </i>
