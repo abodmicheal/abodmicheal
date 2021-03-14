@@ -48,6 +48,7 @@
 - [Getting started with JavaScript - Atom autocomplete using ternjs](https://dev.to/abodmicheal/getting-started-with-javascript-atom-autocomplete-using-ternjs-13ek)
 <!-- BLOG-POST-LIST:END -->
 
+NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github
 
 [twitter]: https://twitter.com/abod_media
 [youtube]: https://youtube.com/channel/UCwF__HO41idFP_wBO4Z1vHQ
