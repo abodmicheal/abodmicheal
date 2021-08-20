@@ -41,7 +41,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Paypal sandbox accounts and card for testing](https://dev.to/abodmicheal/paypal-sandbox-accounts-and-card-for-testing-3m1a)
+- [Paypal sandbox accounts and cards for testing](https://dev.to/abodmicheal/paypal-sandbox-accounts-and-card-for-testing-3m1a)
 - [Learn any programing language, framework or library fast and efficiently](https://dev.to/abodmicheal/learn-any-programing-language-framework-or-library-fast-and-efficiently-251p)
 - [Truncate Text In React.js and JS](https://dev.to/abodmicheal/truncate-text-in-react-js-and-js-22k2)
 - [sticky navbar on scroll reactJS](https://dev.to/abodmicheal/sticky-navbar-on-scroll-reactjs-1p4d)
