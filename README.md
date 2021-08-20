@@ -41,11 +41,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Paypal sandbox accounts and card for testing](https://dev.to/abodmicheal/paypal-sandbox-accounts-and-card-for-testing-3m1a)
 - [Learn any programing language, framework or library fast and efficiently](https://dev.to/abodmicheal/learn-any-programing-language-framework-or-library-fast-and-efficiently-251p)
 - [Truncate Text In React.js and JS](https://dev.to/abodmicheal/truncate-text-in-react-js-and-js-22k2)
 - [sticky navbar on scroll reactJS](https://dev.to/abodmicheal/sticky-navbar-on-scroll-reactjs-1p4d)
 - [How to deploy/Host React project on firebase](https://dev.to/abodmicheal/how-to-deploy-host-react-project-on-firebase-76i)
-- [3 Methods of binding in react](https://dev.to/abodmicheal/3-methods-of-binding-in-react-2fid)
 <!-- BLOG-POST-LIST:END -->
 
 <i>NOTE: This is basically all about me but I'm always learning and would never stop learning </i>
