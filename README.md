@@ -41,11 +41,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [React dialog box library](https://dev.to/abodmicheal/react-dialog-box-library-b1b)
 - [React open source Ecommerce web app with PayPal checkout](https://dev.to/abodmicheal/react-open-source-ecommerce-web-app-with-paypal-checkout-2img)
 - [Open sourced react eccomerce web app with PayPal checkout](https://dev.to/abodmicheal/open-sourced-react-eccomerce-web-app-with-paypal-checkout-404b)
 - [Paypal sandbox accounts and cards for testing](https://dev.to/abodmicheal/paypal-sandbox-accounts-and-card-for-testing-3m1a)
 - [Learn any programing language, framework or library fast and efficiently](https://dev.to/abodmicheal/learn-any-programing-language-framework-or-library-fast-and-efficiently-251p)
-- [Truncate Text In React.js and JS](https://dev.to/abodmicheal/truncate-text-in-react-js-and-js-22k2)
 <!-- BLOG-POST-LIST:END -->
 
 <i>NOTE: This is basically all about me but I'm always learning and would never stop learning </i>
