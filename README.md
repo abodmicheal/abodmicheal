@@ -1,4 +1,5 @@
 ### Hi there I'm abod👋
+[instagram]: https://instagram.com/abod_micheal
 [![Twitter Follow](https://img.shields.io/twitter/follow/Abodmicheal?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fabod_micheal&screen_name=abod_media)
 
 ### I'm a Front end dev, computer science Grad and a Tutor
@@ -50,7 +51,7 @@
 
 <i>NOTE: This is basically all about me but I'm always learning and would never stop learning </i>
 
-[twitter]: https://twitter.com/abod_media
+[twitter]: https://twitter.com/abod_micheal
 [youtube]: https://youtube.com/channel/UCwF__HO41idFP_wBO4Z1vHQ
-[instagram]: https://instagram.com/abodmedia
+[instagram]: https://instagram.com/abod_micheal
 [linkedin]: https://linkedin.com/in/abodmicheal
